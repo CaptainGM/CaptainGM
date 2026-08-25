@@ -1,45 +1,45 @@
 # Berat Batuhan Sahin
 
-Bilgisayar muhendisligi ogrencisiyim ve gercek problem cozen projeler gelistiriyorum.
-Backend, veri isleme, masaustu uygulamalar ve makine ogrenmesi odaklarim.
-2026 icin hedefim urunlesebilen, olculebilir ve test edilebilir projeler cikarmak.
+Bilgisayar mühendisliği öğrencisiyim ve gerçek problem çözen projeler geliştiriyorum.
+Backend, veri işleme, masaüstü uygulamalar ve makine öğrenmesi odaklarım.
+2026 için hedefim ürünleşebilen, ölçülebilir ve test edilebilir projeler çıkarmak.
 
 ## What I Build
-- Python, Java, C# ve Dart ile uctan uca uygulamalar
-- Veri odakli projeler: siniflandirma, analiz, gorsellestirme
-- Masaustu, web ve gomulu tarafta uygulamali proje gelistirme
+- Python, Java, C# ve Dart ile uçtan uca uygulamalar
+- Veri odaklı projeler: sınıflandırma, analiz, görselleştirme
+- Masaüstü, web ve gömülü tarafta uygulamalı proje geliştirme
 
 ## What I am Looking For
-- Yazilim gelistirme staji ve junior roller
-- Uretim kalitesi kod review ve ekip ici gelisim ortamlari
-- Ozellikle backend, veri ve guvenlik kesisminde gorevler
+- Yazılım geliştirme stajı ve junior roller
+- Üretim kalitesi kod review ve ekip içi gelişim ortamları
+- Özellikle backend, veri ve güvenlik kesişiminde görevler
 
 ## Mini Case Studies
 
-### 1) Arac Govde Tipi Siniflandirma
+### 1) Araç Gövde Tipi Sınıflandırma
 - Proje: [arac-govde-siniflandirma](https://github.com/CaptainGM/arac-govde-siniflandirma)
-- Problem: Arac fotograflarindan govde tipini dogru sekilde tespit etmek.
-- Yaklasim: PyTorch + ResNet transfer learning, veri onisleme ve sinif bazli degerlendirme.
-- Sonuc: F1 skoru 0.91; Streamlit arayuzu ile model ciktilari anlik test edilebilir hale geldi.
+- Problem: Araç fotoğraflarından gövde tipini doğru şekilde tespit etmek.
+- Yaklaşım: PyTorch + ResNet transfer learning, veri ön işleme ve sınıf bazlı değerlendirme.
+- Sonuç: F1 skoru 0.91; Streamlit arayüzü ile model çıktıları anlık test edilebilir hale geldi.
 
-### 2) Kargo Yonetim Sistemi
+### 2) Kargo Yönetim Sistemi
 - Proje: [kargo-yonetim-sistemi](https://github.com/CaptainGM/kargo-yonetim-sistemi)
-- Problem: Takip, paketleme ve rota planlamayi tek akista yonetmek.
-- Yaklasim: Moduler Python mimarisi, TSP + 2-opt tabanli rota kurgusu.
-- Sonuc: Uctan uca senaryolarda teslimat planlama ve takip adimlari tek sistemde toplandi.
+- Problem: Takip, paketleme ve rota planlamayı tek akışta yönetmek.
+- Yaklaşım: Modüler Python mimarisi, TSP + 2-opt tabanlı rota kurgusu.
+- Sonuç: Uçtan uca senaryolarda teslimat planlama ve takip adımları tek sistemde toplandı.
 
-### 3) Sosyal Ag Analizi
+### 3) Sosyal Ağ Analizi
 - Proje: [sosyal-ag-analizi](https://github.com/CaptainGM/sosyal-ag-analizi)
-- Problem: Iliski aglarinda etkilesim yapisini olculebilir sekilde analiz etmek.
-- Yaklasim: C# / WPF ile BFS, DFS, k-core ve merkezilik hesaplamalari.
-- Sonuc: Grafik yapisi uzerinde birden fazla algoritmanin ayni arayuzden karsilastirmali analizi saglandi.
+- Problem: İlişki ağlarında etkileşim yapısını ölçülebilir şekilde analiz etmek.
+- Yaklaşım: C# / WPF ile BFS, DFS, k-core ve merkezilik hesaplamaları.
+- Sonuç: Grafik yapısı üzerinde birden fazla algoritmanın aynı arayüzden karşılaştırmalı analizi sağlandı.
 
 ## Roadmap 2026
-- OtoPiyasa projesinde API ve veri modelini olceklendirilebilir hale getirmek
-- 2 projeye test kapsami ve CI akisi eklemek
-- Guvenlik odakli bir log analiz mini platformu yayinlamak
+- OtoPiyasa projesinde API ve veri modelini ölçeklendirilebilir hale getirmek
+- 2 projeye test kapsamı ve CI akışı eklemek
+- Güvenlik odaklı bir log analiz mini platformu yayınlamak
 
 ## Contact
 - E-posta: beratbatuhansahin@gmail.com
-- GitHub: https://github.com/CaptainGM
-- Konum: Izmit, Kocaeli
+- GitHub: [https://github.com/CaptainGM](https://github.com/CaptainGM)
+- Konum: İzmit, Kocaeli
